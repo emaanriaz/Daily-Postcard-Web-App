@@ -1,2 +1,3 @@
-# Daily-Postcard-Web-App
-Allows users to upload image, change color of background, type a message, and change font. 
+NOTE: 
+Recieving error: "req.body undefined"
+Display page still works, but occasionally does not. 
